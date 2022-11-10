@@ -1,0 +1,7 @@
+version: "3.3"
+services:
+  ui:
+    image: ui
+    container_name: ui
+    ports:
+      - 8081:80
