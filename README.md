@@ -24,7 +24,7 @@ AWS_REGION
 Posteriormente ejecute el comando `cdk deploy`, al finalizar podra ver una respuesta como la que se muestra a continuación
 ![](img/output.jpg)
 
-Al finalizar el despliegue puede acceder a la consola de AWS, donde debe ver tres instancias corriendo
+Para comprobar la creación de las instancias puede acceder a la consola de AWS, donde debe ver tres instancias corriendo
 ![](img/AWSInstances.jpg)
 
 Para acceder a la aplicación utilice el DNS público de cada una de las instancias. En el puerto 8081 podra ver la aplicación corriendo
